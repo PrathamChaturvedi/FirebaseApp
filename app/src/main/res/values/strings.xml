@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="conversations">Conversations</string>
+</resources>
